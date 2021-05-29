@@ -1,17 +1,5 @@
-# flutter_animation
+# Flutter 动画教程 2-1 可以无尽旋转的显式动画
 
-A new Flutter project.
+網址：https://www.bilibili.com/video/BV1Ri4y147ny
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_RotationTransition
+透過AnimationController來控制元件：forward(), Stop(), reset()
